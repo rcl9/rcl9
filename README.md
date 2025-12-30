@@ -21,4 +21,6 @@ Some of my 1980's computers related to these projects may include:
 
 - and Atari|ST
 
+The main landing page for external search engines is [here](https://rcl9.github.io).
+
 You can reach me at [RetroComputingArchive@gmail.com](mailto:RetroComputingArchive@gmail.com). I do not have a YouTube channel nor a dedicated Web site for my retro computing work.
