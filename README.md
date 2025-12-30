@@ -1,5 +1,9 @@
 Welcome to *Rob's 1970's and 1980's Retro Computing Archive*.
 
+<p align="center">
+<img src="/Images/Rob's Retro-Computing Archive.jpg">
+</p>
+
 During the late 1970's and 1980's I was a hard-core, low-level, prolific software and hardware developer, a "builder of everything". This Github site will strive, amoung other goals, to bring [some of those projects](/Imagery-of-Past-Projects) back to life in a documented and open source manner. Fortunately I had documented, archived and stored away most of those projects at the time for future historical recollection.
 
 In tanden with that prior work, I had a focussed interest with digital music synthesis hardware design from 1979 through to ~1991, during which time I had a goal to design and build my own Fairlight or Synclavier sampling synthesizer (which cost $25k to $200k in 1980's dollars). That is why each of my Z80 computers always included a MIDI interface and how my final Z80 "MIDI Computer" came to be.
