@@ -5,7 +5,7 @@ Welcome to *Rob's 1970's and 1980's Retro Computing Archive*.
 <img src="/Images/Rob's Retro-Computing Archive.jpg">
 </p>
 
-Please visit the [main landing page](https://rcl9.github.io) which has a short overview of each repository and why it may be of interest to you.
+Please visit the [main landing page](https://rcl9.github.io) which has a short visual and textual overview of each repository and why it may be of interest to you.
 
 During the late 1970's and 1980's I was a hard-core, low-level, prolific software and hardware developer, a "builder of everything". This GitHub site will strive, amoung other goals, to bring [some of those projects](https://github.com/rcl9/Imagery-of-Past-Projects) back to life in a documented and open source manner. Fortunately I had documented, archived and stored away most of those projects at the time for future historical recollection.
 
