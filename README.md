@@ -11,7 +11,7 @@ During the late 1970's and 1980's I was a hard-core, low-level, prolific softwar
 
 Generally speaking, the documentation will primarily be of interest to Z-80 and CP/M-80 people, along with some other projects relating to digital music + MIDI synthesis machines and peripheral hardware pinned to the 1980s. A focus will also be made to document some machines for future historical reference. 
 
-The following photo albums contain snapshots of some of my more interesting projects from the 1970's to late 1980's that are documented in these GitHub repos:
+The following photo albums contain snapshots of some of my more interesting projects from the 1970's to late 1980's of which some are documented in the GitHub repos:
 
 - [Hardware Projects](https://www.flickr.com/gp/40744368@N04/549zP4rgb2)
 - [Other Miscellaneous Hardware Projects (incl. 1975 nitrogen laser)](https://www.flickr.com/gp/40744368@N04/i1Q58q9NH1)
