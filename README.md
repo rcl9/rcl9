@@ -18,6 +18,8 @@ The following photo albums contain snapshots of some of my more interesting proj
 - [R/C Airplane Projects](https://www.flickr.com/gp/40744368@N04/U8qJaETR5C)
 - [Woodworking Projects](https://www.flickr.com/gp/40744368@N04/SZQ6005GcB)
 
+- [The Influences Which Made Me a "Builder of Things" - The first 24 Years of life](https://github.com/rcl9/Imagery-of-Past-Projects/tree/main/Where%20It%20All%20Started)
+
 Please feel to mirror these repositories as my intent is to make this material available far and wide for others to access in the deeper future once I am no longer alive. You can attribute the material as orignally coming from "<i>Rob's Retro Computing Archive (RCL9) - https://github.com/rcl9, RetroComputingArchive@gmail.com</i>".
 
 You can reach me at [RetroComputingArchive@gmail.com](mailto:RetroComputingArchive@gmail.com). I do not have a YouTube channel nor a dedicated Web site for my retro computing work.
